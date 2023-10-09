@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+    background-color: #ffffff;
+  }
+  
+  h1 {
+    font-size: 2em;
+    margin-block-start: 0;
+  }
+  
+  nav {
+    text-align: center;
+    background-color: #000000;
+    padding: 90px;
+  }
+  
+  nav a {
+    color: #ffffff;
+    text-decoration: none;
+    text-align: center;
+  }
+  
+  main {
+    margin-block-start: 20px;
+  }
+  
+  section {
+    padding: 20px;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    margin-block-end: 10px;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #000000;
+    color: #ffffff;
+  }
